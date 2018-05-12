@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36404'
     url: http://www.gutenberg.org/2009/agents/36404
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33433#Sketches-of-Aboriginal-LifeAmerican-Tableaux-No.-1
 gutenberg_issued: '2010-08-14'
 gutenberg_type: Text
 identifiers:
